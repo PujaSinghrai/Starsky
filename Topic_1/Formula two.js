@@ -106,9 +106,7 @@ var newNumber = number.slice(0,5);
 
 newNumber.filter(newNumber=> (newNumber%2 == 0 ? console.log(newNumber): null))
 
-
-
-// 13.fibinochi serice
+// fibinochi serice
  
 var fib=function(n){
     if (n===1){
